@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "CEO at Microsoft, USA",
+      "period": "July 2002 - June 2003",
+      "description": "Led the Microsoft team on their way to become one of the largest companies in the world. Oversaw the strategic direction of the company and implemented revolutionary changes. Introduced a revolutionary product, the Windows Phone, that completly took over the market and made our rival, the Apple iPhone entirely irrelevant"
+    },
+    {
+      "id": 2,
+      "title": "Janitor at Microsoft, USA",
+      "period": "June 2003 - April 2004",
+      "description": "Oversaw the purity, freshness and spotlessness at the Microsoft HQ. Identified and maximized opportunities for complete customer and worker satisfaction"
+    },
+    {
+      "id": 3,
+      "title": "Cashier at ICA, Sweden",
+      "period": "April 2004 - August 2008",
+      "description": "Ensured excellent customer service and gratification. Oversaw basically the entire company. \nCured cancer"
+    },
+    {
+      "id": 4,
+      "title": "Software Developer at Evil Lawyers LLC, Finland",
+      "period": "September 2010 - December 2022",
+      "description": "Analyzed our users needs and sequentially designed software to fulfill those needs. Led my development team forwards towards greatness and glory"
+    }
+]

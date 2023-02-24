@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Science program at Fyrisskolan, Sweden",
+      "period": "August 1999 - June 2002",
+      "description": "High School education with an orientaion of Social Science"
+    },
+    {
+      "id": 2,
+      "title": "Economics at Mittuniversitet, Sweden",
+      "period": "August 1999 - June 2002",
+      "description": "University education with a major in Economics and a minor in Business Administration"
+    },
+    {
+      "id": 3,
+      "title": "System developer at Edugrade, Sweden",
+      "period": "August 2008 - June 2010",
+      "description": "Vocational university education focusing on system development with an orientaion of AI development"
+    }
+]
